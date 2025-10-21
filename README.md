@@ -8,7 +8,7 @@
 ---
 
 ### 📘 Overview
-This portfolio highlights applied projects completed through the University of Texas at Austin, McCombs School of Business **Data Science and Business Analytics Program**. Each project reflects the full analytical lifecycle—data preparation, exploratory analysis, model development, and business translation—designed to turn complex datasets into clear, actionable insights.
+This portfolio highlights applied projects completed through the University of Texas at Austin, McCombs School of Business **Data Science and Business Analytics Certificate Program**. Each project reflects the full analytical lifecycle—data preparation, exploratory analysis, model development, and business translation—designed to turn complex datasets into clear, actionable insights.
 
 The collection spans Python-based analysis, predictive modeling, and machine learning techniques including regression, classification, clustering, and ensemble methods. Beyond technical rigor, these projects emphasize communication and interpretability—transforming statistical results into strategic recommendations that address real-world business challenges.
 
